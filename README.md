@@ -6,11 +6,13 @@
 <tr>
 <td width="50%" align="left" valign="top">
 
-<p align="left">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=false&vCenter=true&width=350&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
-</p>
+</div>
 
-<p>
+<br style="line-height:10px;" />
+
+<p style="margin-top:-10px;">
   🎓 Computer Science and Finance @ University of Waterloo
 </p>
 <p>

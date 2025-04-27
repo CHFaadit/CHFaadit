@@ -1,8 +1,8 @@
+<h2 align="center">👋 Hey there! I'm Aadit Shah</h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=500&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </p>
-
-<h2 align="center">👋 Hey there! I'm Aadit Shah</h2>
 
 <p align="center">
   🎓 <b>Computer Science and Finance @ University of Waterloo</b> <br/>
@@ -24,5 +24,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="400"/>
 </p>

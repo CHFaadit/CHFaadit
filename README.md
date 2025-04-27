@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td width="45%" align="left" valign="top">
+<td width="50%" align="left" valign="top">
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=350&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
@@ -35,42 +35,9 @@
 
 </td>
 
-<td width="55%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" />
-  <img src="https://skillicons.dev/icons?i=c" width="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-  <img src="https://skillicons.dev/icons?i=cs" width="50" />
-  <img src="https://skillicons.dev/icons?i=bash" width="50" />
-  <img src="https://skillicons.dev/icons?i=ruby" width="50" />
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-  <img src="https://skillicons.dev/icons?i=sql" width="50" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
-  <img src="https://skillicons.dev/icons?i=rails" width="50" />
-  <img src="https://skillicons.dev/icons?i=flask" width="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-  <img src="https://skillicons.dev/icons?i=spring" width="50" />
-  <img src="https://skillicons.dev/icons?i=git" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-  <img src="https://skillicons.dev/icons?i=postman" width="50" />
-  <img src="https://skillicons.dev/icons?i=oracle" width="50" />
-  <img src="https://skillicons.dev/icons?i=azure" width="50" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" width="50" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50" />
-  <img src="https://skillicons.dev/icons?i=xgboost" width="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="50" />
-  <img src="https://skillicons.dev/icons?i=numpy" width="50" />
-  <img src="https://skillicons.dev/icons?i=pandas" width="50" />
-  <img src="https://skillicons.dev/icons?i=plotly" width="50" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding Gif" />
 
 </td>
 </tr>

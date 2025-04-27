@@ -1,29 +1,23 @@
-# Hi, I'm Aadit Shah 👋
+# 👋 Hey, I'm Aadit Shah!
 
-🎓 Computer Science student at the University of Waterloo  
-💻 Building full-stack projects and exploring AI, SaaS, and automation  
-🚀 Passionate about solving problems through tech  
-
----
-
-### 📫 How to Reach Me
-- **Email:** aaditshah67@gmail.com
-- **Phone:** (647) 818-9647
-- **LinkedIn:** [linkedin.com/in/aadit-shah-170b51271](https://www.linkedin.com/in/aadit-shah-170b51271)
-- **GitHub:** [github.com/aaditshah67](https://github.com/aaditshah67)
+🎓 Computer Science and Finance @ University of Waterloo  
+🚀 Actively Seeking Fall 2025 Internships  
+🛠️ Building Full-Stack Software, SaaS Projects, and Exploring AI Automation  
+🇨🇦 Based in Toronto, Ontario, Canada  
 
 ---
 
-### 🚀 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,cpp,dotnet,azure)
+### 📫 Contact
+- ✉️ Email: [aaditshah67@gmail.com](mailto:aaditshah67@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/aadit-shah-170b51271](https://www.linkedin.com/in/aadit-shah-170b51271)
 
 ---
 
-### 🧠 Currently Working On
-- Building impactful side projects
-- Expanding knowledge in full-stack development and cloud technologies
-- Exploring business ideas combining CS and Finance
+<details>
+<summary>✨ Click here to learn a little more about me!</summary>
 
----
+- 👨‍💻 Passionate about creating products that people actually use  
+- 🧠 Always exploring the intersection of CS, Finance, and Business  
+- 🎯 Believer in building fast, iterating faster  
 
-> "Stay curious, stay building." ✨
+</details>

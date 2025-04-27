@@ -1,8 +1,8 @@
 <h2 align="left">👋 Hey, I'm Aadit Shah</h2>
 
-<table width="100%">
-<tr>
-<td valign="middle" width="58%">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+
+<div align="left" width="60%">
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&repeat=true&center=false&vCenter=false&width=400&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
@@ -25,14 +25,10 @@
 </a>
 </p>
 
-</td>
+</div>
 
-<td valign="middle" width="42%">
+<div align="center" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder Animation" width="300"/>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder Animation" width="320"/>
-</p>
-
-</td>
-</tr>
-</table>
+</div>

@@ -2,12 +2,12 @@
 
 <br/>
 
-<table width="100%">
+<table width="100%" cellspacing="20">
 <tr>
 <td width="50%" align="left" valign="top">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=350&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&repeat=true&center=true&vCenter=true&width=500&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </p>
 
 <p>
@@ -37,7 +37,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding Gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding Gif" />
 
 </td>
 </tr>

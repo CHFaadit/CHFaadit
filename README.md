@@ -40,13 +40,40 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,bash,ruby,html,css,sql" width="500" /><br><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,rails,flask,tailwind,spring" width="500" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,oracle,azure,dynamodb" width="500" /><br><br>
-  <img src="https://skillicons.dev/icons?i=scikitlearn,xgboost,tensorflow,matplotlib,numpy,pandas,plotly" width="500" /><br><br>
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20Platform-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Platform Badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=c" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=cs" width="50" />
+  <img src="https://skillicons.dev/icons?i=bash" width="50" />
+  <img src="https://skillicons.dev/icons?i=ruby" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=sql" width="50" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+  <img src="https://skillicons.dev/icons?i=rails" width="50" />
+  <img src="https://skillicons.dev/icons?i=flask" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+  <img src="https://skillicons.dev/icons?i=spring" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" />
+  <img src="https://skillicons.dev/icons?i=oracle" width="50" />
+  <img src="https://skillicons.dev/icons?i=azure" width="50" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" width="50" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50" />
+  <img src="https://skillicons.dev/icons?i=xgboost" width="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" width="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" width="50" />
+  <img src="https://skillicons.dev/icons?i=plotly" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="50" />
 </p>
 
 </td>

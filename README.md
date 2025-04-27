@@ -2,8 +2,6 @@
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=500&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </p>
 
-<br/>
-
 <p align="center">
   🎓 Computer Science and Finance @ University of Waterloo &nbsp;&nbsp;|&nbsp;&nbsp;
   🚀 Seeking Fall 2025 Internships &nbsp;&nbsp;|&nbsp;&nbsp;

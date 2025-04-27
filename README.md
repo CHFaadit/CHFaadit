@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=false&vCenter=true&width=350&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </div>
 
+<br style="line-height:3px;">
+
 <p style="margin-top:-10px;">
   🎓 Computer Science and Finance @ University of Waterloo
 </p>

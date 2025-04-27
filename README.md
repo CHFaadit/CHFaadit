@@ -1,21 +1,23 @@
-<table>
-<tr>
-<td width="55%" align="center">
-
 <h1 align="center">Hi, I'm Aadit Shah 👋</h1>
 
+<br/>
+
+<table width="100%">
+<tr>
+<td width="35%" align="center" valign="top">
+
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=400&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=350&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎓 Computer Science and Finance @ University of Waterloo  
+  🎓 Computer Science and Finance @ University of Waterloo
 </p>
 <p align="center">
-  🚀 Seeking Fall 2025 Internships  
+  🚀 Seeking Fall 2025 Internships
 </p>
 <p align="center">
-  🌎 Based in Toronto, Ontario, Canada  
+  🌎 Based in Toronto, Ontario, Canada
 </p>
 <p align="center">
   🛠️ Full-Stack + SaaS Projects
@@ -33,57 +35,13 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="65%" align="center" valign="top">
 
-<h3>🛠️ Languages & Tools</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=sql" width="48" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=rails" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=oracle" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48" /></td>
-</tr>
-<tr>
-  <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=plotly" width="48" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,bash,ruby,html,css,sql,dotnet,react,rails,flask,tailwind,spring,git,postman,oracle,azure,dynamodb,scikitlearn,tensorflow,matplotlib,numpy,pandas,plotly" />
+</p>
 
 </td>
 </tr>

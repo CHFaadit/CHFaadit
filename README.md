@@ -2,14 +2,22 @@
 <tr>
 <td width="55%" align="center">
 
+<h1 align="center">Hi, I'm Aadit Shah 👋</h1>
+
 <p align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=true&vCenter=true&width=400&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎓 Computer Science and Finance @ University of Waterloo &nbsp;&nbsp;|&nbsp;&nbsp;
-  🚀 Seeking Fall 2025 Internships &nbsp;&nbsp;|&nbsp;&nbsp;
-  🌎 Based in Toronto, Ontario, Canada &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎓 Computer Science and Finance @ University of Waterloo  
+</p>
+<p align="center">
+  🚀 Seeking Fall 2025 Internships  
+</p>
+<p align="center">
+  🌎 Based in Toronto, Ontario, Canada  
+</p>
+<p align="center">
   🛠️ Full-Stack + SaaS Projects
 </p>
 
@@ -29,11 +37,53 @@
 
 <h3>🛠️ Languages & Tools</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,cs,bash,ruby,html,css,sql" /><br><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,rails,flask,tailwind,spring,git,postman,oracle" /><br><br>
-  <img src="https://skillicons.dev/icons?i=azure,dynamodb,scikitlearn,tensorflow,matplotlib,numpy,pandas,plotly" />
-</p>
+<table>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=sql" width="48" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=rails" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=oracle" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48" /></td>
+</tr>
+<tr>
+  <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=plotly" width="48" /></td>
+</tr>
+</table>
 
 </td>
 </tr>

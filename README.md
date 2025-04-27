@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aadit Shah 👋</h1>
+<h1 align="left">Hi, I'm Aadit Shah 👋</h1>
 
 <br/>
 
@@ -40,7 +40,7 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,bash,ruby,html,css,sql,dotnet,react,rails,flask,tailwind,spring,git,postman,oracle,azure,dynamodb,scikitlearn,tensorflow,matplotlib,numpy,pandas,plotly" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,bash,ruby,html,css,sql,dotnet,react,nextjs,rails,flask,tailwind,spring,git,github,postman,oracle,azure,dynamodb,scikitlearn,xgboost,tensorflow,matplotlib,numpy,pandas,plotly" />
 </p>
 
 </td>

@@ -40,7 +40,13 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,bash,ruby,html,css,sql,dotnet,react,nextjs,rails,flask,tailwind,spring,git,github,postman,oracle,azure,dynamodb,scikitlearn,xgboost,tensorflow,matplotlib,numpy,pandas,plotly" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,bash,ruby,html,css,sql" width="500" /><br><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,rails,flask,tailwind,spring" width="500" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,oracle,azure,dynamodb" width="500" /><br><br>
+  <img src="https://skillicons.dev/icons?i=scikitlearn,xgboost,tensorflow,matplotlib,numpy,pandas,plotly" width="500" /><br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20Platform-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Platform Badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge" />
 </p>
 
 </td>

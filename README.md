@@ -38,7 +38,7 @@
 <td width="65%" align="center" valign="top">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,bash,ruby,html,css,sql,dotnet,react,nextjs,rails,flask,tailwind,spring,git,github,postman,azure,dynamodb,scikitlearn,xgboost,tensorflow,matplotlib,numpy,pandas,plotly" width="90%" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,bash,ruby,html,css,dotnet,react,nextjs,rails,flask,tailwind,spring,git,github,postman,azure,dynamodb,scikitlearn,xgboost,tensorflow,matplotlib,numpy,pandas,plotly" width="90%" />
 </p>
 
 </td>

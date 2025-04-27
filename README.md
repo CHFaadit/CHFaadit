@@ -12,8 +12,6 @@
 
 <div style="margin-top:5px;"></div>
 
-<br style="line-height:1px;">
-
 <p style="margin-top:-10px;">
   🎓 Computer Science and Finance @ University of Waterloo
 </p>

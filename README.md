@@ -16,7 +16,7 @@
   🎓 Computer Science and Finance @ University of Waterloo
 </p>
 <p>
-  🚀 Seeking Fall 2025 Internships
+  🚀 Seeking Fall 2026 Internships
 </p>
 <p>
   🌎 Based in Toronto, Ontario, Canada

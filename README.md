@@ -7,7 +7,7 @@
 <td width="50%" align="left" valign="top">
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=false&vCenter=true&width=350&lines=Software+Developer;Aspiring+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=true&center=false&vCenter=true&width=350&lines=Software+Engineer;Aspiring+Entrepreneur" alt="Typing SVG" />
 </div>
 
 <div style="margin-top:8px;"></div>
